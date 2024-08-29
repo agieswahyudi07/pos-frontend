@@ -4,6 +4,9 @@ export default {
   darkMode: true,
   theme: {
     extend: {},
+    colors: {
+      'pink-theme': '#e7008a',
+    },
   },
   variants: {
     extend: {},

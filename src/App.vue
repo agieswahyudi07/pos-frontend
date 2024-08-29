@@ -1,5 +1,7 @@
+<script setup>
+import Login from '@/views/Auth/Login.vue'
+</script>
+
 <template>
-  <div>
-    LOGIN
-  </div>
+    <Login />
 </template>
